@@ -1,2 +1,3 @@
 # T32-CPRCM-hub
-I4C CPRCM data hub
+
+Sample scripts and notebooks for the I4C CPRCM data hub
